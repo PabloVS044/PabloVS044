@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Pablo!
 🎓 I'm currently studying Computer Science at UVG.<br>💼 I'm working on developing a web-based carpool application called TripTide, aimed at helping university students coordinate rides and reduce car usage on campus.<br>🌱 I'm currently learning how to integrate and use FEL with Odoo.<br>🚀 I'm also improving my skills in Next.js.<br>📚 I enjoy exploring new technologies and constantly strive to improve my coding skills.
 
 
